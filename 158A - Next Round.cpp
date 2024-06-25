@@ -30,6 +30,6 @@ int main()
         }
     }
 
-    cout << n << endl;
+    cout << k << endl;
     return 0;
 }
